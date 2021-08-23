@@ -1,0 +1,16 @@
+{
+  "ids": {
+    "User": 4,
+    "ResultData": 2
+  },
+  "models": {
+    "User": {
+      "1": "{\"name\":\"test\",\"email\":\"test@gmail.com\",\"passwd\":\"$2a$10$e1cEacXD23B7/wo0GwpwZe7GKgUpOCqjAJJAqoX6OOKjatWN6QUp.\",\"role\":\"admin\",\"userId\":1}",
+      "2": "{\"name\":\"test2\",\"email\":\"test2@gmail.com\",\"passwd\":\"$2a$10$UG5gJwKKhBHfHtoqn7wX5.VgTsnAquoiMB7yyLUyfkeyVSDUFTu.K\",\"role\":1,\"userId\":2}",
+      "3": "{\"clientId\":0,\"name\":\"user\",\"email\":\"user0@gmail.com\",\"passwd\":\"$2a$10$XMNbqF0c9kYaTxQ70eb96./fIvdPHJY2/OIy0OWMVXXHSDxHu3UCm\",\"role\":0,\"userId\":3}"
+    },
+    "ResultData": {
+      "1": "{\"testId\":1,\"model\":\"model1\",\"value\":21,\"resultDataId\":1}"
+    }
+  }
+}
